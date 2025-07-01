@@ -19,32 +19,12 @@ This project contains a collection of beginner-level JavaScript programs created
 
 ---
 
-## 🚀 How to Run
-
-1. Clone or download the repository.
-2. Open any `.js` file using a browser console or embed it in an HTML file like this:
-
-```html
-<script src="filename.js"></script>
-```
-
-3. You can also test code using browser DevTools (press `F12`) or online JS editors like [JSFiddle](https://jsfiddle.net/) or [CodePen](https://codepen.io/).
-
----
-
 ## 🎯 Skills Practiced
 
 - Variables & Operators  
 - `if` / `else` conditions  
 - Basic user input/output  
 - Mathematical logic
-
----
-
-## 👩‍💻 Author
-
-**Devanshi Parekh**  
-GitHub: [@devanshi78](https://github.com/devanshi78)
 
 ---
 
